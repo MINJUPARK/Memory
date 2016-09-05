@@ -229,15 +229,42 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_planet, container, false);
+
+            View rootView = null;
             int i = getArguments().getInt(ARG_PLANET_NUMBER);
+            int imageId=0;
+
             String planet = getResources().getStringArray(R.array.planets_array)[i];
 
-            int imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
-                    "drawable", getActivity().getPackageName());
-            ImageView iv = ((ImageView) rootView.findViewById(R.id.image));
-            iv.setImageResource(imageId);
+            if(i==0) {
+                rootView = inflater.inflate(R.layout.fragment_family, container, false);
+                imageId = getResources().getIdentifier("a123",
+                        "drawable", getActivity().getPackageName());
+                ImageView iv = ((ImageView) rootView.findViewById(R.id.image_family));
+                iv.setImageResource(imageId);
+            }
+            else if (i==1) {
+                rootView = inflater.inflate(R.layout.fragment_friends, container, false);
+                imageId = getResources().getIdentifier("b123",
+                        "drawable", getActivity().getPackageName());
+                ImageView iv = ((ImageView) rootView.findViewById(R.id.image_friends));
+                iv.setImageResource(imageId);
+            }
+            else if (i==2) {
+                rootView = inflater.inflate(R.layout.fragment_teacher, container, false);
+                imageId = getResources().getIdentifier("c123",
+                        "drawable", getActivity().getPackageName());
+                ImageView iv = ((ImageView) rootView.findViewById(R.id.image_teacher));
+                iv.setImageResource(imageId);
+            }
+            else {
+                rootView = inflater.inflate(R.layout.fragment_planet, container, false);
 
+                imageId = getResources().getIdentifier(planet.toLowerCase(Locale.getDefault()),
+                        "drawable", getActivity().getPackageName());
+                ImageView iv = ((ImageView) rootView.findViewById(R.id.image));
+                iv.setImageResource(imageId);
+            }
             getActivity().setTitle(planet);
             return rootView;
         }

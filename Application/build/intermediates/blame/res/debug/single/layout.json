@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -92,6 +96,10 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_family.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\layout\\fragment_family.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
     },
@@ -170,5 +178,9 @@
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_teacher.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\layout\\fragment_teacher.xml"
     }
 ]

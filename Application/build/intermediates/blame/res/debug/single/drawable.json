@@ -20,16 +20,20 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\neptune.jpg"
     },
     {
-        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\earth.jpg",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\earth.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\c.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\c.png"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -72,6 +76,10 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\c123.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\c123.png"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -94,6 +102,10 @@
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\b123.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\b123.png"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\uranus.jpg",
@@ -138,6 +150,10 @@
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\a123.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\src\\main\\res\\drawable\\a123.png"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Memory\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
